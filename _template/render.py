@@ -51,7 +51,7 @@ h1 em{font-style:normal;color:var(--amarelo)}
 .foto:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(13,13,13,.15) 35%,var(--preto) 100%)}
 .preco{display:flex;align-items:flex-start;gap:8px;margin-top:30px;color:var(--amarelo);font-family:'Inter Display',sans-serif;font-weight:900}
 .preco small{font-size:56px;margin-top:22px}.preco b{font-size:190px;line-height:1;letter-spacing:-6px}
-.foot{margin-top:auto}
+.foot{margin-top:auto;padding-top:28px}
 .cta{display:flex;justify-content:space-between;align-items:flex-end;border-top:4px solid var(--amarelo);padding-top:26px}
 .cta b{display:block;font-size:36px;font-weight:700;white-space:nowrap}
 .cta span{font-size:27px;color:var(--cinza);white-space:nowrap}
@@ -88,11 +88,11 @@ def peca_html(p):
         corpo.append('<div class="chips">' + "".join(f'<span class="chip">{html.escape(c)}</span>' for c in p["chips"]) + "</div>")
     legal = "Beba com moderação. Venda de bebidas alcoólicas proibida para menores de 18 anos." if p.get("alcool") else ""
     if story:
-        foot = f"""<div class="foot"><div class="cta"><div><b>(61) 98341-7930</b><span>QNP 36, Ceilândia Sul · iFood e WhatsApp</span></div></div>
+        foot = f"""<div class="foot"><div class="cta"><div><b>(61) 98341-7930</b><span style="display:block">QNP 36 CJ J LT 02 · Ceilândia Sul</span><span style="display:block">Peça pelo iFood ou WhatsApp</span></div></div>
         {f'<div class="legal">{legal}</div>' if legal else ''}</div>"""
     else:
         foot = f"""<div class="foot"><div class="cta">
-         <div><b>Peça pelo iFood ou WhatsApp</b><span>(61) 98341-7930 · QNP 36, Ceilândia Sul</span></div>
+         <div><b>Peça pelo iFood ou WhatsApp</b><span style="display:block">(61) 98341-7930</span><span style="display:block">QNP 36 CJ J LT 02 · Ceilândia Sul</span></div>
          <div class="hr"><span>Todos os dias</span><b style="display:block">até 00h</b></div></div>
         {f'<div class="legal">{legal}</div>' if legal else ''}</div>"""
     corpo.append(foot)
