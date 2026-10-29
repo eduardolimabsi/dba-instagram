@@ -1,0 +1,19 @@
+{
+  "pecas": [
+    {"arquivo": "post1-sextou-v2.jpg", "formato": "post", "modelo": "chamada", "tag": "Sexta-feira",
+     "titulo": "Sextou\n*trincando*", "alcool": true,
+     "sub": "Cerveja estupidamente gelada, gelo e carvão pra começar o fim de semana do jeito certo.",
+     "chips": ["Cervejas", "Gelo", "Carvão", "Refri", "Tabacaria"]},
+    {"arquivo": "post2-mercearia-v2.jpg", "formato": "post", "modelo": "foto", "foto": "_assets/fachada.jpg",
+     "tag": "Sábado", "titulo": "Faltou\n*alguma coisa?*", "tamanho": 118,
+     "sub": "Bateu a fome? Resolve aqui, pertinho de casa.",
+     "chips": ["Chocolate", "Miojo", "Creme de leite", "Biscoito", "Sucos", "Snacks"]},
+    {"arquivo": "post3-domingo-v2.jpg", "formato": "post", "modelo": "chamada", "tag": "Domingo",
+     "titulo": "Domingo é\ndia de\n*churrasco*", "alcool": true,
+     "sub": "Carvão, gelo, cerveja e refri num pedido só. Abrimos às 9h.",
+     "chips": ["Carvão", "Gelo", "Cerveja", "Refri"]},
+    {"arquivo": "story-aberto-v2.jpg", "formato": "story", "modelo": "foto", "foto": "_assets/fachada.jpg",
+     "tag": "Hoje", "titulo": "Aberto até\n*meia-noite*", "tamanho": 140,
+     "sub": "Bebidas geladas, snacks e tabacaria."}
+  ]
+}
