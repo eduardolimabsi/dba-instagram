@@ -1,0 +1,10 @@
+{"pecas":[
+ {"arquivo":"post1-terca-calor.jpg","formato":"post","modelo":"foto","foto":"_assets/fachada-frente.jpg","tag":"Terça-feira","titulo":"Pertinho\nde casa *até 00h*","tamanho":104,
+  "sub":"Calorão? Bebida gelada, mercearia e tabacaria aqui no bairro.","chips":["Água e refri","Sucos","Snacks","Tabacaria","iFood"]},
+ {"arquivo":"post2-sexta-esquenta.jpg","formato":"post","modelo":"chamada","tag":"Sexta-feira","titulo":"Esquenta\ndo fim de\n*semana*","alcool":true,
+  "sub":"Monta o pedido e garante tudo antes do sábado: cerveja gelada, gelo, carvão e refri.","chips":["Cervejas","Gelo","Carvão","Refri","Água"]},
+ {"arquivo":"post3-domingo-churrasco.jpg","formato":"post","modelo":"foto","foto":"_assets/fachada.jpg","tag":"Domingo","titulo":"Churrasco\n*sem correria*","tamanho":110,"alcool":true,
+  "sub":"Esqueceu o carvão ou o gelo? Abrimos às 9h.","chips":["Carvão","Gelo","Cerveja","Refri","Sucos"]},
+ {"arquivo":"story-semana-pede.jpg","formato":"story","modelo":"chamada","tag":"Hoje","titulo":"Pede que\na gente\n*resolve*","tamanho":150,
+  "sub":"Bebidas geladas, snacks, mercearia e tabacaria. Todos os dias até 00h."}
+]}
