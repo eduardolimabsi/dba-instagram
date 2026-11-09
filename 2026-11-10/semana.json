@@ -1,0 +1,64 @@
+{
+ "pecas": [
+  {
+   "arquivo": "post1-terca-jogo.jpg",
+   "formato": "post",
+   "modelo": "foto",
+   "foto": "_assets/fachada.jpg",
+   "tag": "Terça-feira",
+   "titulo": "Tem jogo?\n*A gente entrega*",
+   "tamanho": 104,
+   "sub": "Brasileirão na reta final: refri gelado, snacks e chocolate pelo iFood, até meia-noite.",
+   "chips": [
+    "Refri",
+    "Sucos",
+    "Snacks",
+    "Chocolate",
+    "Tabacaria"
+   ]
+  },
+  {
+   "arquivo": "post2-sexta-abastece.jpg",
+   "formato": "post",
+   "modelo": "chamada",
+   "tag": "Sexta-feira",
+   "titulo": "Abastece o\n*fim de*\n*semana*",
+   "alcool": true,
+   "sub": "Cerveja gelada, gelo, carvão e refri: faz o pedido hoje e fica tranquilo até domingo.",
+   "chips": [
+    "Cervejas",
+    "Gelo",
+    "Carvão",
+    "Refri",
+    "Água"
+   ]
+  },
+  {
+   "arquivo": "post3-domingo-feriado.jpg",
+   "formato": "post",
+   "modelo": "foto",
+   "foto": "_assets/fachada-frente.jpg",
+   "tag": "Domingo 15/11",
+   "titulo": "Domingo e\nferiado: *abertos*",
+   "tamanho": 104,
+   "alcool": true,
+   "sub": "Faltou carvão ou gelo pro churrasco? A gente abre às 9h.",
+   "chips": [
+    "Carvão",
+    "Gelo",
+    "Cerveja",
+    "Refri",
+    "Sucos"
+   ]
+  },
+  {
+   "arquivo": "story-semana-sofa.jpg",
+   "formato": "story",
+   "modelo": "chamada",
+   "tag": "Hoje",
+   "titulo": "Do bairro\npro seu\n*sofá*",
+   "tamanho": 150,
+   "sub": "Bebidas geladas, snacks, mercearia e tabacaria. Peça pelo iFood ou WhatsApp."
+  }
+ ]
+}
