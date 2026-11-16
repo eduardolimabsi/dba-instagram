@@ -1,0 +1,10 @@
+{"pecas":[
+ {"arquivo":"post1-terca-rodada.jpg","formato":"post","modelo":"chamada","tag":"Terça-feira","titulo":"Quarta e\nquinta tem\n*rodada*","tamanho":126,
+  "sub":"Brasileirão à noite: refri e sucos gelados, snacks e chocolate pelo iFood, até meia-noite.","chips":["Refri","Sucos","Snacks","Chocolate","Tabacaria"]},
+ {"arquivo":"post2-sexta-gelo-carvao.jpg","formato":"post","modelo":"chamada","tag":"Sexta-feira","titulo":"Gelo e\ncarvão\n*garantidos*","tamanho":126,
+  "sub":"Abastece o fim de semana: gelo, carvão, refri, sucos e água num pedido só.","chips":["Gelo","Carvão","Refri","Sucos","Água"]},
+ {"arquivo":"post3-domingo-churrasco-casa.jpg","formato":"post","modelo":"foto","foto":"_assets/fachada.jpg","tag":"Domingo","titulo":"Churrasco\n*em casa*","tamanho":110,"alcool":true,
+  "sub":"Carvão, gelo, cerveja e refri pelo iFood ou WhatsApp. Abrimos às 9h.","chips":["Carvão","Gelo","Cerveja","Refri","Sucos"]},
+ {"arquivo":"story-semana-sede.jpg","formato":"story","modelo":"chamada","tag":"Hoje","titulo":"Calor?\nTá com\n*sede?*","tamanho":150,
+  "sub":"Água, refri e sucos gelados, snacks e tabacaria. Peça pelo iFood ou WhatsApp."}
+]}
